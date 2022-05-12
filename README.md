@@ -1,1 +1,1 @@
-this project was created to solemly practicing what I had learned from the basic HTML from the odin project. The goal is to utilize those technique to construct a mockup website providing food recipe.
+this project was created to solemnly practicing what I had learned from the basic HTML from the odin project. The goal is to utilize those technique to construct a mockup website providing food recipe.
